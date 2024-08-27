@@ -32,7 +32,13 @@ Prerequisites: you'll need to have [node](https://nodejs.org/en) and [yarn](http
 git clone https://github.com/CPix18/paymaster-bundler-examples.git
 ```
 
-### 2. Set up environment variables
+### 2. Get into the right folder 
+
+```
+cd paymaster-bundler-examples
+```
+
+### 3. Set up environment variables
 
 - ### Copy the env example
 
@@ -73,7 +79,7 @@ yarn
     - Valid values: `simple`, `safe`, `kernel`
     - [pimlico/src/account.js](https://github.com/coinbase/paymaster-bundler-examples/blob/master/examples/pimlico/src/account.js) is a code example on how to configure a different smart account for SDKs that support this feature
 
-### 3. Navigate to the directory of the SDK you want to run the example with.
+### 4. Navigate to the directory of the SDK you want to run the example with.
 
 Example for swing
 
@@ -81,19 +87,19 @@ Example for swing
 cd examples/pimlico
 ```
 
-### 4. Install the dependencies with yarn
+### 5. Install the dependencies with yarn
 
 ```
 yarn
 ```
 
-### 5. Run the example
+### 6. Run the example
 
 ```
 yarn dev
 ```
 
-### 6. See your sponsored transaction live!
+### 7. See your sponsored transaction live!
 
 You should receive an Etherscan link with your sponsored transaction in the terminal output. [Example](https://basescan.org/tx/0x94e27c21b8f8e3a288cbeff022a6c921aa49d7a945e340b05c3141a72da63183)
 

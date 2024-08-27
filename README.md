@@ -78,7 +78,7 @@ yarn
 Example for swing
 
 ```
-cd examples/swing
+cd examples/pimlico
 ```
 
 ### 4. Install the dependencies with yarn

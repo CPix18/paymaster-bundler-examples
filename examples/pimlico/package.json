@@ -8,7 +8,7 @@
     "viem": "^2.7.13"
   },
   "scripts": {
-    "dev": "node src/mint.js"
+    "dev": "node src/request.js"
   },
   "type": "module"
 }

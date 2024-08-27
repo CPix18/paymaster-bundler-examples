@@ -18,9 +18,7 @@ I currently have one example using the pimlico SDK, but contributions are always
 
 | SDK               | Simple | Safe | Kernel |
 | ----------------- | ------ | ---- | ------ |
-| aa-core           | ✅     | ❌   | ❌     |
 | permissionless.js | ✅     | ✅   | ✅     |
-| @zerodev/sdk      | ❌     | ❌   | ✅     |
 
 ## Getting Started
 

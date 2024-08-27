@@ -29,7 +29,7 @@ Prerequisites: you'll need to have [node](https://nodejs.org/en) and [yarn](http
 ### 1. Clone this repo locally
 
 ```
-git clone 
+git clone https://github.com/CPix18/paymaster-bundler-examples.git
 ```
 
 ### 2. Set up environment variables
